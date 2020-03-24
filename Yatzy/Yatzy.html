@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yatzy</title>
+    <link rel="  stylesheet" href="Yatzycss.css"/>
+    <script src="Yatzy.js" defer></script>
+    <script src="GUI.js" defer></script>
+</head>
+<body>
+<div id="top">
+    <img id = "t1" src="Terning/dice6.png" class = "free" onclick="holdButton('t1')"></img>
+    <img id = "t2" src="Terning/dice2.png" class = "free" onclick="holdButton('t2')"></img>
+    <img id = "t3" src="Terning/dice3.png" class = "free" onclick="holdButton('t3')"></img>
+    <img id = "t4" src="Terning/dice5.png" class = "free" onclick="holdButton('t4')"></img>
+    <img id = "t5" src="Terning/dice4.png" class = "free" onclick="holdButton('t5')"></img>
+    <div id="turn" >Turn: 0</div>
+    <button id="Roll" >Roll</button>
+</div>
+<div id="bund">
+    <div id="1's" class="item">1's</div>
+    <div id="2's" class="item">2's</div>
+    <div id="3's" class="item">3's</div>
+    <div id="4's" class="item">4's</div>
+    <div id="5's" class="item">5's</div>
+    <div id="6's" class="item">6's</div>
+    <div id="One pair" class="item">One pair</div>
+    <div id="Two Pair" class="item">Two Pair</div>
+    <div id="Three same" class="item">Three same</div>
+    <div id="Four same" class="item">Four same</div>
+    <div id="Full house" class="item">Full house</div>
+    <div id="Small straight" class="item">Small straight</div>
+    <div id="Large straight" class="item">Large straight</div>
+    <div id="Chanche" class="item">Chanche</div>
+    <div id="Yatzy" class="item">Yatzy</div>
+    <div  id = "1sb" class="box" onclick="selectScore('1sb')"></div>
+    <div  id = "2sb" class="box" onclick="selectScore('2sb')"></div>
+    <div  id = "3sb" class="box" onclick="selectScore('3sb')"></div>
+    <div  id = "4sb" class="box" onclick="selectScore('4sb')"></div>
+    <div  id = "5sb" class="box" onclick="selectScore('5sb')"></div>
+    <div  id = "6sb" class="box" onclick="selectScore('6sb')"></div>
+    <div  id = "1pb" class="box" onclick="selectScore('1pb')"></div>
+    <div  id = "2pb" class="box" onclick="selectScore('2pb')"></div>
+    <div  id = "3k" class="box" onclick="selectScore('3k')"></div>
+    <div  id = "4k" class="box" onclick="selectScore('4k')"></div>
+    <div  id = "Fhb" class="box" onclick="selectScore('Fhb')"></div>
+    <div  id = "Ssb" class="box" onclick="selectScore('Ssb')"></div>
+    <div  id = "Lsb" class="box" onclick="selectScore('Lsb')"></div>
+    <div  id = "Chb" class="box" onclick="selectScore('Chb')"></div>
+    <div  id = "Yab" class="box" onclick="selectScore('Yab')"></div>
+    <div id="Sum" >Sum</div>
+    <div id="Bonus" >Bonus</div>
+    <div id="Total" >Total</div>
+    <div id="SumB" ></div>
+    <div id="BonusB" ></div>
+    <div id="TotalB" ></div>
+    <button id="Reset" onclick="location.reload()" >Reset</button>
+</div>
+</body>
+</html>

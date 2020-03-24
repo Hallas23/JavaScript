@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55a2c86d-fca7-49ff-b647-06e239105ace" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qj3O0B8SwyEm8shiNqYJ5y5ttf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lektion 2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon\WebstormProjects\Yatzy" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion5" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Lektion 8.2.js">
+    <configuration name="Lektion 8.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Lektion 8.2.js" working-dir="$PROJECT_DIR$/../Lektion8">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opgave1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave1.js" working-dir="$PROJECT_DIR$/../Lektion8">
+      <method v="2" />
+    </configuration>
+    <configuration name="opgaver.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="opgaver.js" working-dir="$PROJECT_DIR$/../Lektion4">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Lektion 8.2.js" />
+        <item itemvalue="Node.js.Opgave1.js" />
+        <item itemvalue="Node.js.opgaver.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a2c86d-fca7-49ff-b647-06e239105ace" name="Default Changelist" comment="" />
+      <created>1568706116795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568706116795</updated>
+      <workItem from="1568706118008" duration="17849000" />
+      <workItem from="1569220548342" duration="24535000" />
+      <workItem from="1569482675071" duration="5671000" />
+      <workItem from="1569566336134" duration="6000" />
+      <workItem from="1569912761680" duration="4312000" />
+      <workItem from="1569917618680" duration="9766000" />
+      <workItem from="1570034125585" duration="484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

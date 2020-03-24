@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../14.4/.idea/14.4.iml" filepath="$PROJECT_DIR$/../14.4/.idea/14.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HTTP Lektion12.iml" filepath="$PROJECT_DIR$/.idea/HTTP Lektion12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion 15 template og test/.idea/Lektion 15 template og test.iml" filepath="$PROJECT_DIR$/../Lektion 15 template og test/.idea/Lektion 15 template og test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion11/.idea/Lektion11.iml" filepath="$PROJECT_DIR$/../Lektion11/.idea/Lektion11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion13/.idea/Lektion13.iml" filepath="$PROJECT_DIR$/../Lektion13/.idea/Lektion13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion14/.idea/Lektion14.iml" filepath="$PROJECT_DIR$/../Lektion14/.idea/Lektion14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion16MongoDB/.idea/Lektion16MongoDB.iml" filepath="$PROJECT_DIR$/../Lektion16MongoDB/.idea/Lektion16MongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion3/.idea/Lektion3.iml" filepath="$PROJECT_DIR$/../Lektion3/.idea/Lektion3.iml" />
+    </modules>
+  </component>
+</project>

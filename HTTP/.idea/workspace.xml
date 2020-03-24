@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="923fe7fb-8b0b-43d2-8f2a-7bc84e572d2c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEO6caYHDC1pgCxhNWy8UWyQyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JokeService" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion14" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion14\Opgave4" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion 15 template og test" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion 15 template og test\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon\WebstormProjects\14.4" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion14" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion14\Opgave4" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion16MongoDB\Opgave2" />
+      <recent name="C:\Users\Simon\WebstormProjects\Lektion16MongoDB" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Test.js">
+    <configuration name="Opgave 14.4LEET.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../14.4/Opgave 14.4LEET.js" working-dir="$PROJECT_DIR$/../14.4">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opgave 14.4.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave 14.4.js" working-dir="$PROJECT_DIR$/../Lektion14">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opgave 14.4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Lektion14/Opgave 14.4/Opgave 14.4.js" working-dir="$PROJECT_DIR$/../Lektion14/Opgave 14.4">
+      <method v="2" />
+    </configuration>
+    <configuration name="Test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Test.js" working-dir="$PROJECT_DIR$/../14.4">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Lektion14.2/express-session/app.js" working-dir="$PROJECT_DIR$/../Lektion14.2/express-session">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/../14.4">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Test.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.Opgave 14.4LEET.js" />
+        <item itemvalue="Node.js.Opgave 14.4.js" />
+        <item itemvalue="Node.js.Opgave 14.4.js (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923fe7fb-8b0b-43d2-8f2a-7bc84e572d2c" name="Default Changelist" comment="" />
+      <created>1571125113602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571125113602</updated>
+      <workItem from="1571125116659" duration="11095000" />
+      <workItem from="1571294079648" duration="8851000" />
+      <workItem from="1571726562083" duration="11629000" />
+      <workItem from="1571898850853" duration="11948000" />
+      <workItem from="1572336914473" duration="4573000" />
+      <workItem from="1572436070189" duration="6502000" />
+      <workItem from="1572512214652" duration="1066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

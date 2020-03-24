@@ -1,0 +1,101 @@
+#top {
+    border: 1px solid red;
+    width: 530px;
+    height: 120px;
+    position: relative; left: 300px;
+    padding: 10px;
+    background-color: cornsilk;
+
+    display: grid;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(2,40px);
+    gap: 5px;
+
+}
+
+#bund {
+    border: 1px solid red;
+    width: 530px;
+    position: relative; left: 300px;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: cornsilk;
+
+    display: grid;
+    grid-template-rows: repeat(15, 20px);
+    grid-template-columns: repeat(6, 88px);
+    row-gap: 12px;
+    column-gap: 5px;
+    grid-auto-flow: column;
+}
+
+.item {
+    width: 100px;
+    border: 1px solid red;
+    background: white;
+}
+
+
+.box {
+    border: 1px solid black;
+    background: white;
+    margin-left: 20px;
+    width: 30px;
+}
+
+#Roll {
+    grid-area: 2/5/2/5;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+#turn {
+    margin-top: 33px;
+}
+
+#Sum {
+    grid-area: 6/3/6/3;
+}
+
+#SumB {
+    grid-area: 6/4/6/4;
+    border: 1px solid black;
+    background: white;
+    width: 30px;
+}
+
+#Bonus {
+    grid-area: 6/5/6/5;
+}
+
+#BonusB {
+    grid-area: 6/6/6/6;
+    border: 1px solid black;
+    background: white;
+    width: 30px;
+}
+
+#Total {
+    grid-area: 15/5/15/5;
+}
+
+#TotalB {
+    grid-area: 15/6/15/6;
+    border: 1px solid black;
+    background: white;
+    width: 30px;
+}
+
+body {
+    background: whitesmoke;
+}
+
+.hold{
+    background-color: crimson;
+}
+
+#Reset{
+    position: relative; left: 375px;
+    position: relative; top: 450px;
+}

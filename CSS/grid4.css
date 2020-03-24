@@ -1,0 +1,19 @@
+#container {
+    display: grid;
+    grid-template-areas:
+        "a a"
+        "b c";
+    grid-template-columns: fit-content(10px) fit-content(10px);
+}
+
+h4 {
+    grid-area: a;
+}
+
+button {
+    grid-area: b;
+}
+
+ul {
+    grid-area: c;
+}

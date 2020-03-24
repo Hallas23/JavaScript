@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JokeService/.idea/JokeService.iml" filepath="$PROJECT_DIR$/../JokeService/.idea/JokeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lektion16MongoDB/.idea/Lektion16MongoDB.iml" filepath="$PROJECT_DIR$/../Lektion16MongoDB/.idea/Lektion16MongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tape.iml" filepath="$PROJECT_DIR$/.idea/Tape.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+Daniel og Simon Yatzyprojekt.
+Vi har ikke fundet nogen fejl, vi har tilføjet en reset knap, der genstarter spillet.

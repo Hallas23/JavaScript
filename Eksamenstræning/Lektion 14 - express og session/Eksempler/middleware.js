@@ -1,0 +1,17 @@
+const express = require('express');
+const app = express();
+
+function log(request, response, next) {
+    console.log(request.method + ': ' + request.url);
+    next();
+}
+
+
+app.use(log);
+
+app.get('/', (request, response) => {
+    console.log("hej")
+    response.sendStatus(200);
+}).listen(8080);
+
+console.log('Lytter på port 8080 ...');

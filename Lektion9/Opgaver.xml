@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <personer>
+        <person>
+        <Navn> Ole </Navn>
+        <alder>  24 </alder>
+        <adresse>
+            <by> Aarhus </by>
+            <gadenavn> Tietgens plads </gadenavn>
+            <nummber> 8 </nummber>
+            <postnr> 8200 </postnr>
+        </adresse>
+        </person>
+        <person>
+            <Navn> Oliver </Navn>
+            <alder>  24 </alder>
+            <adresse>
+                <by> Aarhus </by>
+                <gadenavn> Ceres Byen </gadenavn>
+                <nummber> 22 </nummber>
+                <postnr> 8200 </postnr>
+            </adresse>
+        </person>
+        <person>
+            <Navn> Zia </Navn>
+            <alder>  24 </alder>
+            <adresse>
+                <by> Aarhus </by>
+                <gadenavn> The Street </gadenavn>
+                <nummber> 69 </nummber>
+                <postnr> 8420 </postnr>
+            </adresse>
+        </person>
+    </personer>
+</project>
